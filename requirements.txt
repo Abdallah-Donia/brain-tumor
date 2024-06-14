@@ -1,6 +1,5 @@
 gunicorn
 flask
 numpy
-cv2
 keras
-werkzeug
+
