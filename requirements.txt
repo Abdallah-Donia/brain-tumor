@@ -1,7 +1,6 @@
 gunicorn
 flask
 numpy
-base64
 cv2
 keras
 werkzeug
