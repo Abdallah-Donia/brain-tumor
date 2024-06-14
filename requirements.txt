@@ -2,7 +2,5 @@ gunicorn
 flask
 numpy
 opencv-python
-base64
-werkzeug
 keras
 tensorflow
